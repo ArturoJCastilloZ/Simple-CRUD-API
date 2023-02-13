@@ -1,0 +1,4 @@
+// Configuración del Javascript moderno a un estándar más entendible para los navegadores
+{
+    "presets": ["@babel/preset-env"]
+}
